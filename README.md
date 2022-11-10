@@ -14,6 +14,8 @@
 
 ```javascript
 const { _EventBus } = require('xh-event-bus')
+// or:
+import { _EventBus } from 'xh-event-bus'
 ```
 
 2、
