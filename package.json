@@ -1,0 +1,24 @@
+{
+  "name": "xh-event-bus",
+  "version": "1.0.0",
+  "description": "event bus，used for module commmunication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouzhibing123/xh-event-bus.git"
+  },
+  "keywords": [
+    "event-bus",
+    "xingzhonghe",
+    "event"
+  ],
+  "author": "xingzhonghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouzhibing123/xh-event-bus/issues"
+  },
+  "homepage": "https://github.com/zhouzhibing123/xh-event-bus#readme"
+}
